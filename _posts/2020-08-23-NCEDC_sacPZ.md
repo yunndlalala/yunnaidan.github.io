@@ -4,7 +4,7 @@ title:      从NCEDC下载的L4短周期仪器的sacpz格式的仪器响应文�
 subtitle:   
 date:       2020-08-23
 author:     yunnd
-header-img: img/walle.jpg
+header-img: img/Walle.jpg
 catalog: true
 tags:
     - seismic, data, response, sacpz
